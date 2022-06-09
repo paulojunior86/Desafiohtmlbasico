@@ -1,9 +1,15 @@
-.cabecalho{
+.cabecalhomoda{
     background-color: rgb(208, 142, 237);
-    color:aliceblue
+    color:aliceblue;
+}
+.cabecalhocasa{
+    background-color:#00C4B4;
+    color:aliceblue;
+    
 }
 
 #dados{
-    background-color: dimgrey;
-    color:aliceblue
+    background-color: #424250;
+    
+    color:aliceblue;
 }
